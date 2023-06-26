@@ -1,0 +1,32 @@
+/* Write your CSS here */
+.team-card {
+  list-style: none;
+  padding: 5px 10px 5px 10px;
+  border: 1px solid white;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  background-color: #ffffff33;
+  cursor: pointer;
+  min-height: 170px;
+}
+
+.team-card-design {
+  height: 100px;
+  width: 100px;
+}
+
+.link-item {
+  text-decoration: none;
+  width: 45%;
+}
+
+.team-para-design {
+  font-size: 20px;
+  font-family: 'roboto';
+  margin-left: 20px;
+  color: #ffffff;
+}
